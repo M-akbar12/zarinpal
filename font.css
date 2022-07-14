@@ -1,0 +1,35 @@
+/* Webfont: Yekan */
+@font-face {
+	font-family: 'Yekan';
+	src:	url('Yekan.eot'); /* IE9 Compat Modes */
+	src:	url('Yekan.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+			url('Yekan.woff2') format('woff2'), /* Modern Browsers */
+			url('Yekan.woff') format('woff'), /* Modern Browsers */
+			url('Yekan.otf') format('opentype'), /* Open Type Font */	
+			url('Yekan.ttf') format('truetype'); /* Safari, Android, iOS */
+	font-weight: normal;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	font-display: auto;
+}
+/* Webfont: Yekan */
+@font-face {
+	font-family: 'YakanBakhMedium';
+	
+    src:	url('./Yekan-Font-2/YakanBakhMedium') format('woff'), /* Modern Browsers */
+	
+}
+
+@font-face {
+	font-family: 'YakanBakhHeavy';
+	
+    src:	url('./Yekan-Font-master/Yekan.vfc') format('woff'), 
+	
+}
+
+
+@font-face {
+	font-family: 'YakanBakhbold';
+    src:url('./Yekan-Font-master/Yekan.eot') format('woff');
+    
+}
